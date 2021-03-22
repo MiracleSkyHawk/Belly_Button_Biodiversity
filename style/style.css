@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("https://www.careergirls.org/wp-content/uploads/2018/06/Biomedical_engineer_1920x1080.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.col-md-2 {
+    color: #f7f7f7;
+}
+
+.well {
+    color: #f7f7f7;
+}
